@@ -1,0 +1,26 @@
+---
+layout: default
+---
+<article>
+
+  <h1>{{ page.title | escape }}</h1>
+  
+  <h2>{{ page.lang | escape }}</h2>
+
+  {%- if page.hreflangs.size > 0 -%}
+    <ul>
+      {%- for hreflang in page.hreflangs -%}
+        {%- for lang in hreflang -%}
+          <li>
+            {{ lang[0] }}: {{ lang[1] }}
+          </li>
+        {%- endfor -%}
+      {%- endfor -%}
+    </ul>
+  {%- endif -%}
+
+  <div class="post-content">
+    {{ content }}
+  </div>
+
+</article>
