@@ -1,14 +1,14 @@
 ---
 layout: page
-title:  "MNO"
+title:  "ABC"
 date:   2019-10-05 21:19:12 +0900
-categories: master
-lang: en-us
+categories: es-es
+lang: es-es
 hreflangs:
     - fr-fr: /fr-fr/2019/10/05/fr-fr-abc.html
     - fr-ca: /fr-ca/2019/10/05/fr-ca-abc.html
     - de-de: /de-de/2019/10/05/de-de-abc.html
-    - es-es: /es-es/2019/10/05/es-es-abc.html
+    - es-es: /en-us/2019/10/05/en-us-abc.html
     - es-mx: /es-mx/2019/10/05/es-mx-abc.html
 ---
-MNO
+ABC

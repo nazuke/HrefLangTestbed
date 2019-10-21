@@ -1,0 +1,14 @@
+---
+layout: page
+title:  "ABC"
+date:   2019-10-04 21:19:12 +0900
+categories: es-es
+lang: es-es
+hreflangs:
+    - fr-fr: /fr-fr/2019/10/04/fr-fr-abc.html
+    - fr-ca: /fr-ca/2019/10/04/fr-ca-abc.html
+    - de-de: /de-de/2019/10/04/de-de-abc.html
+    - es-es: /en-us/2019/10/04/en-us-abc.html
+    - es-mx: /es-mx/2019/10/04/es-mx-abc.html
+---
+ABC

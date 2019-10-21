@@ -1,14 +1,14 @@
 ---
 layout: page
-title:  "JKL"
+title:  "ABC"
 date:   2019-10-04 21:19:12 +0900
-categories: master
-lang: en-us
+categories: fr-ca
+lang: fr-ca
 hreflangs:
     - fr-fr: /fr-fr/2019/10/04/fr-fr-abc.html
-    - fr-ca: /fr-ca/2019/10/04/fr-ca-abc.html
+    - en-us: /en-us/2019/10/04/en-us-abc.html
     - de-de: /de-de/2019/10/04/de-de-abc.html
     - es-es: /es-es/2019/10/04/es-es-abc.html
     - es-mx: /es-mx/2019/10/04/es-mx-abc.html
 ---
-JKL
+ABC
