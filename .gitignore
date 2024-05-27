@@ -1,7 +1,9 @@
-_site
+vendor
 .sass-cache
 .jekyll-cache
 .jekyll-metadata
-vendor
-docs/*
-!docs/.gitkeep
+_site/*
+!_site/.gitkeep
+!_site/HrefLangTestbed
+_site/HrefLangTestbed/*
+!_site/HrefLangTestbed/.gitkeep
