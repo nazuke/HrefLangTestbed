@@ -31,7 +31,7 @@ plugins:
 
 keep_files: [ ".gitkeep", "HrefLangTestbed/.gitkeep" ]
 
-permalink: /HrefLangTestbed/:year-:month-:day/:categories/index:output_ext
+#permalink: /HrefLangTestbed/:year-:month-:day/:categories/index:output_ext
 
 # Exclude from processing.
 # The following items will not be processed, by default.
